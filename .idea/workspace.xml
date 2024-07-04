@@ -15,7 +15,13 @@
     <execution />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="358517" />
+    <option name="totalTimeSeconds" value="362076" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.9/bin/php">
     <include_path>
@@ -216,6 +222,7 @@
       <workItem from="1719903975494" duration="6532000" />
       <workItem from="1719932983643" duration="4005000" />
       <workItem from="1720001970367" duration="1688000" />
+      <workItem from="1720122683156" duration="5100000" />
     </task>
     <servers />
   </component>
